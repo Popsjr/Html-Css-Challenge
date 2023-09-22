@@ -7,6 +7,7 @@ html,body{
 }
 header{
     background:  #281B2D;
+    width: 100%;
 }
 h1{
     font-size: 72px;
