@@ -7,7 +7,8 @@ html,body{
 }
 header{
     background:  #281B2D;
-    width: 100%;
+min-width: 1000px;
+
 }
 h1{
     font-size: 72px;
@@ -76,9 +77,12 @@ main{
     
 }
 .col-3{
-    padding: 20px 20px 0;
-    
+    padding: 20px 20px 0; 
 }
+/* .col-t{
+    padding: 0 80px 0; 
+    background: #fcd801;
+} */
 .para1{
     padding: 0 30px 0;
 }
@@ -87,6 +91,7 @@ main{
     margin-bottom: 60px;
     position: relative;
     top: 20px;
+    margin-left: 100px;
 
 }
 a{
